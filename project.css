@@ -1,0 +1,165 @@
+
+
+carousel-item img{
+margin:auto
+}
+
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+body{
+    font-family: Tahoma, sans-serif;
+}
+
+.under-art-text{
+  color: black;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.artists-paragraph{
+    text-align: center;
+    font-size: large;
+color: black;
+margin-top: 70px;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+  }
+
+  .image-center {
+    text-align:center;
+    padding: 20px;
+  }
+
+  .under-image-text{
+    padding: 15px; 
+    text-decoration: none;
+  
+  }
+
+
+  .bg-purple {
+    --bs-bg-opacity: 1;
+    background-color: #7ADFFD;
+}
+
+.paragrafoi-kallitexnwn{
+  text-align: left;
+  padding: 40px;
+  font-family: optica;
+  font-size: 20px;
+  
+}
+
+.button{
+  cursor: pointer;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.social{ 
+  text-align:center;
+
+}
+
+#otherartists{
+  padding: 10px;
+  margin-top: 100px;
+}
+
+#iliaskafouros{
+  shape-margin: square;
+}
+
+.artist-img{
+  height: fit-content;
+  width: 600px;
+  padding:30px;
+}
+
+.logo{
+  height: fit-content;
+  width: 200px;
+  padding:20px;
+margin: auto;
+}
+
+.name{
+height: fit-content;
+width: 500px;
+padding: 20px;
+margin: auto;
+
+}
+
